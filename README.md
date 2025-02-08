@@ -1,4 +1,4 @@
-# api_automation
+# Bold: api_automation
 Automatización para aplicar a rol de Automatizador.
 
 La presente es un ejercicio de automatización para mi postulación como Test Automation.
