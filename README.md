@@ -10,4 +10,4 @@ Consultar usuario
 Realicé una pequeña demostración creando algunos test y validaciones en cada uno.
 Esto está basado en las APIs de prueba de: https://reqres.in/
 
-
+Para acceder a la coleccion e importarla en Postman bajela aquí: https://github.com/paopao1983/api_automation/blob/main/Regres%20Automation.postman_collection.json
