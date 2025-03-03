@@ -1,5 +1,5 @@
 POC: api_automation
-Automatización para aplicar a rol de Automatizador.
+Automatización para aplicar a rol de Automatizador, utilizando Postman.
 
 La presente es un ejercicio de automatización para mi postulación como Test Automation.
 En este ejercicio automaticé tres servicios:
